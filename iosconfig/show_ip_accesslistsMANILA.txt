@@ -1,0 +1,3 @@
+Extended IP access list ACL-PC1
+    10 deny icmp host 192.168.1.2 any (276 matches)
+    20 permit ip any any (3198 matches)

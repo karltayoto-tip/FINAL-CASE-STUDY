@@ -1,0 +1,8 @@
+QC   ansible_host=192.168.0.1
+MANILA ansible_host=10.0.0.2
+TARLAC   ansible_host=10.0.0.6
+
+[routers]
+QC
+MANILA
+TARLAC
